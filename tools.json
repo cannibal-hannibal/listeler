@@ -2,7 +2,7 @@
    "NoRedirect Path Checker": {
       "Repo": "https://github.com/cannibal-hannibal/NoRedirect-Vuln-Checker",
       "Description": "NoRedirect Path Checker",
-      "Command": "[python] main.py"
+      "Command": "[python] main.py",
       "Modules": [
           "requests==2.28.1",
           "colorama==0.4.5"
