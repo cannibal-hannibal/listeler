@@ -1,5 +1,5 @@
 {
-   "tools": {
+   "tools": [{
          "name": "NoRedirect Path Checker",
          "Repo": "https://github.com/cannibal-hannibal/NoRedirect-Vuln-Checker",
          "Author": "Will Graham",
@@ -24,4 +24,4 @@
              "colorama==0.4.5"
          ]
       }
-}
+]}
