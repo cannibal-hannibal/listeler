@@ -1,5 +1,5 @@
 {
-   tools: [
+   tools: {
          "name": "NoRedirect Path Checker",
          "Repo": "https://github.com/cannibal-hannibal/NoRedirect-Vuln-Checker",
          "Author": "Will Graham",
@@ -10,8 +10,8 @@
              "requests==2.28.1",
              "colorama==0.4.5"
          ]
-      ],
-      [
+      },
+      {
          "name": "WordPress Dork Generator",
          "Repo": "https://github.com/cannibal-hannibal/WordPress-Dork-Generator",
          "Author": "Will Graham",
@@ -23,5 +23,5 @@
              "requests==2.28.1",
              "colorama==0.4.5"
          ]
-      ]
+      }
 }
