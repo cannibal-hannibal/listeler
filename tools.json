@@ -10,7 +10,7 @@
           "colorama==0.4.5"
       ]
    }
-}
+},
 {
    "WordPress Dork Generator": {
       "Repo": "https://github.com/cannibal-hannibal/WordPress-Dork-Generator",
