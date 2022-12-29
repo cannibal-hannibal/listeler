@@ -2,7 +2,7 @@
    "NoRedirect Path Checker": {
       "Repo": "https://github.com/cannibal-hannibal/NoRedirect-Vuln-Checker",
       "Author": "Will Graham",
-      "Date": "20.11.2022",
+      "Date": "2022-11-20",
       "Description": "NoRedirect Path Checker",
       "Command": "[python] main.py",
       "Modules": [
