@@ -11,3 +11,17 @@
       ]
    }
 }
+{
+   "WordPress Dork Generator": {
+      "Repo": "https://github.com/cannibal-hannibal/WordPress-Dork-Generator",
+      "Author": "Will Graham",
+      "Date": "2022-12-14",
+      "Description": "WordPress Dork Generator",
+      "Command": "[python] main.py",
+      "Modules": [
+          "googletrans==3.1.0a0",
+          "requests==2.28.1",
+          "colorama==0.4.5"
+      ]
+   }
+}
