@@ -15,7 +15,7 @@
       "Author": "Will Graham",
       "Date": "2022-12-14",
       "Description": "WordPress Dork Generator",
-      "Command": "[python] main.py",
+      "Command": "[python] wordpress-dork-generator.py",
       "Modules": [
           "googletrans==3.1.0a0",
           "requests==2.28.1",
