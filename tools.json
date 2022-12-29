@@ -5,7 +5,7 @@
          "Author": "Will Graham",
          "Date": "2022-11-20",
          "Description": "NoRedirect Path Checker",
-         "Command": "[python] tools/NoRedirect-Vuln-Checker-main/main.py",
+         "Command": "cd tools/NoRedirect-Vuln-Checker-main/ && [python] main.py",
          "Modules": [
              "requests==2.28.1",
              "colorama==0.4.5"
@@ -17,7 +17,7 @@
          "Author": "Will Graham",
          "Date": "2022-12-14",
          "Description": "WordPress Dork Generator",
-         "Command": "[python] tools/WordPress-Dork-Generator-main/wordpress-dork-generator.py",
+         "Command": "cd tools/WordPress-Dork-Generator-main/ && [python] wordpress-dork-generator.py",
          "Modules": [
              "googletrans==3.1.0a0",
              "requests==2.28.1",
