@@ -5,7 +5,7 @@
          "Author": "Michy Amrane",
          "Date": "2019-05-30",
          "Description": "Pupi is a simple passwords generator from simple personal informations.",
-         "Command": "cd tools/PUPI-master && [python] pupi.py",
+         "Command": "[python] tools/PUPI-master/pupi.py",
          "Modules": [
              "colorama==0.4.5"
          ]
