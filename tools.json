@@ -1,5 +1,16 @@
 {
    "tools": [{
+      "Name": "CMSeeK",
+         "Repo": "https://github.com/Tuhinshubhra/CMSeeK",
+         "Author": "Tuhinshubhra",
+         "Date": "2020-02-05",
+         "Description": "CMS Detection & Exploitation Suite",
+         "Command": "[python] tools/CMSeeK-master/pupi.py",
+         "Modules": [
+             "requests==2.28.1"
+         ]
+      },
+      {
       "Name": "PUPI",
          "Repo": "https://github.com/mIcHyAmRaNe/PUPI",
          "Author": "Michy Amrane",
