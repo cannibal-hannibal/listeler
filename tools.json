@@ -1,14 +1,12 @@
 {
    "tools": [{
-      "Name": "CMSeeK",
-         "Repo": "https://github.com/Tuhinshubhra/CMSeeK",
-         "Author": "Tuhinshubhra",
-         "Date": "2020-02-05",
-         "Description": "CMS Detection & Exploitation Suite",
-         "Command": "[python] tools/CMSeeK-master/cmseek.py",
-         "Modules": [
-             "requests==2.28.1"
-         ]
+      "Name": "Hash ID",
+         "Repo": "https://github.com/blackploit/hash-identifier",
+         "Author": "blackploit",
+         "Date": "2018-03-14",
+         "Description": "Software to identify the different types of hashes used to encrypt data and especially passwords.",
+         "Command": "[python] tools/hash-identifier-master/hash-id.py",
+         "Modules": []
       },
       {
       "Name": "PUPI",
