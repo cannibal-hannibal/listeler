@@ -1,5 +1,27 @@
 {
    "tools": [{
+      "Name": "Vailyn",
+         "Repo": "https://github.com/VainlyStrain/Vailyn",
+         "Author": "VainlyStrain",
+         "Date": "2020-04-19",
+         "Description": "Phased Path Traversal & LFI Attacks",
+         "Command": "[python] tools/Vailyn-master/Vailyn.py -A",
+         "Modules": [
+             "requests==2.28.1",
+             "treelib==1.6.1",
+             "colorama==0.4.5",
+             "PyQt5==5.15.7",
+             "scrapy>=2.4.1",
+             "twisted==22.10.0",
+             "PyDispatcher==2.0.6",
+             "terminaltables==3.1.10",
+             "arjun>=2.1.2",
+             "psutil==5.9.3",
+             "setproctitle==1.3.2",
+             "notify2==0.3.1"
+         ]
+      },
+      {
       "Name": "CMSeeK",
          "Repo": "https://github.com/Tuhinshubhra/CMSeeK",
          "Author": "Tuhinshubhra",
