@@ -1,5 +1,16 @@
 {
    "tools": [{
+      "Name": "CMSeeK",
+         "Repo": "https://github.com/Tuhinshubhra/CMSeeK",
+         "Author": "Tuhinshubhra",
+         "Date": "2018-09-21",
+         "Description": "CMS Detection & Exploitation Suite",
+         "Command": "[python] tools/CMSeeK-master/cmseek.py",
+         "Modules": [
+             "requests==2.28.1"
+         ]
+      },
+      {
       "Name": "Hash ID",
          "Repo": "https://github.com/blackploit/hash-identifier",
          "Author": "blackploit",
