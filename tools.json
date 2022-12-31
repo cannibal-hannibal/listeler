@@ -5,7 +5,7 @@
          "Author": "VainlyStrain",
          "Date": "2020-04-19",
          "Description": "Phased Path Traversal & LFI Attacks",
-         "Command": "[python] tools/Vailyn-master/Vailyn.py -A",
+         "Command": "[python] tools/Vailyn-master/Vailyn -A",
          "Modules": [
              "requests==2.28.1",
              "treelib==1.6.1",
