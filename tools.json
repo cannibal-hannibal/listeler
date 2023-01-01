@@ -53,18 +53,6 @@
          ]
       },
       {
-         "Name": "Ranger Reloaded",
-         "Repo": "https://github.com/joeyagreco/ranger-reloaded",
-         "Author": "Joey Greco",
-         "Date": "2022-06-30",
-         "Description": "that can be used to scan alive hosts on your network and check for vulnerable open ports",
-         "Command": "cd tools/ranger-reloaded-main && [python] app.py",
-         "Modules": [
-             "prettytable~=3.3.0",
-             "ping3~=4.0.3"
-         ]
-      },
-      {
          "Name": "NoRedirect Path Checker",
          "Repo": "https://github.com/cannibal-hannibal/NoRedirect-Vuln-Checker",
          "Author": "Will Graham",
