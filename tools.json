@@ -1,5 +1,18 @@
 {
    "tools": [{
+      "Name": "Squeeze",
+         "Repo": "https://github.com/cannibal-hannibal/squeeze",
+         "Author": "Will Graham",
+         "Date": "2023-01-01",
+         "Description": "Sql Injection Scanner Tool",
+         "Command": "cd tools/squeeze-main && [python] squeeze.py",
+         "Modules": [
+             "requests==2.28.1",
+             "rich==12.6.0",
+             "googlesearch-python"
+         ]
+      },
+      {
       "Name": "Vailyn",
          "Repo": "https://github.com/VainlyStrain/Vailyn",
          "Author": "VainlyStrain",
