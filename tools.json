@@ -9,7 +9,7 @@
          "Modules": [
              "requests==2.28.1",
              "rich==12.6.0",
-             "googlesearch-python"
+             "google==3.0.0"
          ]
       },
       {
