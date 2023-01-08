@@ -82,7 +82,7 @@
          "Repo": "https://github.com/blackploit/hash-identifier",
          "Author": "blackploit",
          "Date": "2018-03-14",
-         "Description": "Software to identify the different types of hashes used to encrypt data and especially passwords.",
+         "Description": "hash identifier",
          "Command": "[python] tools/hash-identifier-master/hash-id.py",
          "Modules": []
       },
